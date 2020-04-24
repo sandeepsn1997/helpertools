@@ -25,7 +25,7 @@ def read(*names, **kwargs):
 
 setup(
     name='helpertools',
-    version='0.0.0',
+    version='1.0.1',
     license='Apache-2.0',
     description='helper tools for python ',
     long_description='%s\n%s' % (
