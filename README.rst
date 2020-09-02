@@ -72,7 +72,7 @@ Installation
 
 You can also install the in-development version with::
 
-    pip install https://github.com/helpertools/helpertools/archive/master.zip
+    https://github.com/sandeepsn1997/helpertools/edit/master/README.rst
 
 
 Documentation
